@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# UNT0033: Incorrect message case
+dotnet_diagnostic.UNT0033.severity = suggestion
